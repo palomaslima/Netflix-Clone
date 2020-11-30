@@ -1,0 +1,5 @@
+.lista{margin-bottom: 5%;}
+.lista h1{color: #FFF;}
+.carousel-item{display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(5, minmax(100px, 1fr));}

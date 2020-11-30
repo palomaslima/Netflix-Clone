@@ -1,0 +1,85 @@
+{
+  "titulos": [
+    {
+      "nome": "The Bourne Ultimatum",
+      "capa": "assets/img/m2.PNG",
+      "trailer": "assets/img/bourne.mp4",
+      "age": 14,
+      "tempo": "1h30",
+      "categoria": ["Filme","Épico","Ação"]
+    },
+    {
+      "nome": "Guardiões da Galáxia 2",
+      "capa": "assets/img/m3.PNG",
+      "trailer": "assets/img/guardioes2.mp4",
+      "age": 12,
+      "tempo": "2h10",
+      "categoria": ["Filme","Épico","Espaço"]
+    },
+    {
+      "nome": "Agents Of Shield",
+      "capa": "assets/img/tv7.PNG",
+      "trailer": "",
+      "age": 12,
+      "tempo": "2 Temporadas",
+      "categoria": ["Série","Ação","Marvel"]
+    },
+    {
+      "nome": "Luke Cage",
+      "capa": "assets/img/tv2.PNG",
+      "trailer": "assets/img/luke.mp4",
+      "age": 12,
+      "tempo": "2 Temporadas",
+      "categoria": ["Série","Ação","Original"]
+    },
+    {
+      "nome": "The Staircase",
+      "capa": "assets/img/p8.PNG",
+      "trailer": "",
+      "age": 16,
+      "tempo": "1 Temporada",
+      "categoria": ["Série","Drama","Original"]
+    },
+    {
+      "nome": "Queer Eye",
+      "capa": "assets/img/o2.PNG",
+      "trailer": "",
+      "age": 16,
+      "tempo": "1 Temporada",
+      "categoria": ["Série","Drama","Original"]
+    },
+    {
+      "nome": "New Girl",
+      "capa": "assets/img/tv5.PNG",
+      "trailer": "",
+      "age": 12,
+      "tempo": "3 Temporadas",
+      "categoria": ["Série","Drama","Comédia"]
+    },
+    {
+      "nome": "A Barraca do Beijo",
+      "capa": "assets/img/o5.PNG",
+      "trailer": "",
+      "age": 12,
+      "tempo": "1h25",
+      "categoria": ["Filme","Drama","Original"]
+    },
+    {
+      "nome": "Bad Boys",
+      "capa": "assets/img/m5.PNG",
+      "trailer": "assets/img/badboys.mp4",
+      "age": 14,
+      "tempo": "1h45",
+      "categoria": ["Filme","Drama","Comédia"]
+    },
+    {
+      "nome": "Bright",
+      "capa": "assets/img/m6.PNG",
+      "trailer": "",
+      "age": 14,
+      "tempo": "2h30",
+      "categoria": ["Filme","Drama","Original"]
+    }
+      
+  ]
+}

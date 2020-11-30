@@ -1,0 +1,19 @@
+<a href="#" (mouseenter)="playVideo()" (mouseleave)="pauseVideo()">
+    <img [src]="tituloDet.capa" alt="">
+    <div class="detalhes-titulo">
+        <video #trailer [src]="tituloDet.trailer" autoplay muted></video>
+        <div class="items">
+                <img src="../../../assets/img/sinal-de-jogo.png" class="btn-play">
+                <ul class="infos">
+                    <li class="age" [ngClass]="{'age-12' : tituloDet.age === 12, 'age-14' : tituloDet.age === 14, 'age-16' : tituloDet.age === 16}"></li>
+                    <li class="tempo">{{ tituloDet.tempo }}</li>
+                </ul>
+                <ul class="categories">
+                    <li *ngFor= "let categoria of tituloDet.categoria">{{ categoria }}</li>
+                </ul>
+        </div>
+    </div>
+   
+</a>
+
+
